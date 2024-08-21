@@ -2142,3 +2142,6 @@ msgid "freeload.freeloaded.info"
 msgstr ""
 "Der Engel war bei einer Schicht nicht anwesend. "
 "Bei %s geschwänzten Schichten wird die Schicht-Registration für den Engel gesperrt."
+
+msgid "registration.pronoun.info"
+msgstr "Hier kannst du deine bevorzugten Pronomen eintragen, z.B. 'sie/ihr', 'er/ihm' oder 'they/them'."

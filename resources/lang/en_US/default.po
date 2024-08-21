@@ -1033,3 +1033,6 @@ msgid "freeload.freeloaded.info"
 msgstr ""
 "The angel was not present for a shift. "
 "If %s shifts are freeloaded, the shift registration is blocked for the angel."
+
+msgid "registration.pronoun.info"
+msgstr "Here you can enter your preferred pronouns, e.g. 'she/her', 'he/him' oder 'they/them'."
