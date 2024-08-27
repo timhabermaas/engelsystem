@@ -1,0 +1,11 @@
+msgid "Ask the Heaven"
+msgstr "Ask the Organizers"
+
+msgid "faq.questions_link"
+msgstr "If you don't find an answer, you can <a href=\"%s\">ask the Organizers</a> or at the registration."
+
+msgid "registration.title"
+msgstr "Registration"
+
+msgid "settings.profile.email_by_human_allowed"
+msgstr "Allow the Organizers to contact me via email."
