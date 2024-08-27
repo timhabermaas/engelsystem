@@ -26,7 +26,7 @@ _vimrc_local.vim
 
 # Project files
 /config/config.php
-/config/lang/
+# /config/lang/
 /public/*.xml
 /public/coverage
 /test/coverage

@@ -1,0 +1,67 @@
+msgid ""
+"Your %s account has been deleted. If you have any questions regarding your "
+"account deletion, please contact heaven."
+msgstr ""
+"Dein %s-Konto wurde gelöscht. Wenn Du dazu Fragen hast, kontaktiere bitte "
+"die Anmeldung."
+
+msgid "Ask the Heaven"
+msgstr "Frag die Orgas"
+
+msgid ""
+"You are not marked as arrived. Please go to heaven, get your angel "
+"badge and/or tell them that you arrived already."
+msgstr ""
+"Du bist nicht als angekommen markiert. Geh bitte zur Anmeldung, "
+"und melde dich als angekommen."
+
+msgid ""
+"You are not allowed to remove this shift entry. If necessary, ask your "
+"supporter or heaven to do so."
+msgstr ""
+"Du darfst diesen Schichteintrag nicht entfernen. Falls notwendig, frage "
+"einen Orga oder an der Anmeldung danach."
+
+msgid "shift.sign_out.hint"
+msgstr "Du kannst dich bis %s Stunden vor dem Start der Schicht austragen. "
+"Wenn du nicht zu deiner Schicht kommen kannst, lass dich an der Anmeldung austragen."
+
+msgid "freeload.info"
+msgstr "Du warst bei dieser Schicht nicht anwesend. "
+"Bitte wende dich bei Fragen an die Anmeldung."
+
+msgid "freeload.freeloader.info"
+msgstr ""
+"Du warst bei mindestens %s Schichten nicht anwesend. Deshalb ist die Schicht-Registrierung "
+"gesperrt. Bitte gehe zur Anmeldung um wieder entsperrt zu werden."
+
+msgid "faq.questions_link"
+msgstr "Wenn deine Frage hier nicht beantwortet wurde, <a href=\"%s\">frag die Orgas</a> oder an der Anmeldung."
+
+msgid "angeltypes.angeltypes"
+msgstr "Helfertypen"
+
+msgid "angeltypes.restricted.hint"
+msgstr "Dieser Helfertyp benötigt eine Einweisung bei einem Einführungstreffen. "
+"Weitere Informationen findest du möglicherweise in der Beschreibung."
+
+msgid "registration.title"
+msgstr "Registrierung"
+
+msgid "settings.profile.email_by_human_allowed"
+msgstr "Erlaube Orgas mich per E-Mail zu kontaktieren."
+
+msgid "settings.profile.angeltypes.info"
+msgstr "Du kannst deine Helfertypen <a href=\"%s\">auf der Helfertypen-Seite</a> verwalten."
+
+msgid "Leave angeltype"
+msgstr "Helfertyp verlassen"
+
+msgid "Angeltype"
+msgstr "Helfertyp"
+
+msgid "shift.angeltype_source"
+msgstr "Benötigte Helfer von: %s"
+
+msgid "angeltypes.angeltypes"
+msgstr "Helfertypen"
